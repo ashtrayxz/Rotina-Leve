@@ -31,7 +31,7 @@ export function MinimalFooter() {
 	const socialLinks = [
 		{
 			icon: <InstagramIcon className="size-4" />,
-			link: '#',
+			link: 'https://instagram.com/rotinalevebr',
 		},
 		{
 			icon: <FacebookIcon className="size-4" />,
